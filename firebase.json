@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "testProjectToDelete",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
